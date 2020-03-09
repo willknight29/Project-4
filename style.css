@@ -30,3 +30,9 @@ h1 {
     color: white;
     transition: 500ms;
 }
+
+.btn-primary, .btn-primary:hover {
+    background-color: #00bbc9;
+    border: 0px;
+}
+
